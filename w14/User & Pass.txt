@@ -1,0 +1,8 @@
+admin
+123456
+(acces to admin role)
+
+--------------------------------------------------------
+guest
+55555
+(acces to member role)
